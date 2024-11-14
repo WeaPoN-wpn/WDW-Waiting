@@ -1,11 +1,11 @@
 # WDW-Waiting
 Predict Wait Times at Walt Disney World
 
-The project focuses on developing a predictive model for maximum wait times at Walt Disney World using data from 2018 to 2022. The goal is to enhance visitor traffic management and resource optimization.
-
 ## Data Introduction and Preprocessing
 
 The dataset consists of 3.5 million records, including variables like wait times, attraction capacity, and guest numbers. Key preprocessing steps involved handling missing values, normalizing data, converting date and time formats, and creating new features such as event duration and time-based variables.
+
+- **Source**: [Disneyland Visitors Data](https://www.kaggle.com/datasets/ayushtankha/hackathon/data)
 
 ## Feature Engineering
 
