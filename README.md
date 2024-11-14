@@ -1,4 +1,4 @@
-## Overview
+# WDW-Waiting
 The project focuses on developing a predictive model for maximum wait times at Walt Disney World using data from 2018 to 2022. The goal is to enhance visitor traffic management and resource optimization.
 
 ## Data Introduction and Preprocessing
